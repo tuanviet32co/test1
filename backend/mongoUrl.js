@@ -1,0 +1,1 @@
+module.exports =  process.env.MONGODB_URI || "mongodb+srv://lanphuctr:TXc!3V49hyFFD9Y@cluster0.xr1xuau.mongodb.net/?retryWrites=true&w=majority";

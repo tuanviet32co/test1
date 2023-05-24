@@ -1,0 +1,50 @@
+[
+    {
+        "code": "CORE",
+        "name": "Core"
+    },
+    {
+        "code": "ARTS",
+        "name": "Art and Media Studies"
+    },
+    {
+        "code": "ECON",
+        "name": "Economics"
+    },
+    {
+        "code": "LIT",
+        "name": "Literature"
+    },
+    {
+        "code": "HIS",
+        "name": "History"
+    },
+    {
+        "code": "PSY",
+        "name": "Psychology"
+    },
+    {
+        "code": "SOCI",
+        "name": "Social Studies"
+    },
+    {
+        "code": "VS",
+        "name": "Vietnam Studies"
+    },
+    {
+        "code": "IS",
+        "name": "Integrated Sciences"
+    },
+    {
+        "code": "CS",
+        "name": "Computer Science"
+    },
+    {
+        "code": "MATH",
+        "name": "Applied Mathematics"
+    },
+    {
+        "code": "ENG",
+        "name": "Engineering"
+    }
+]

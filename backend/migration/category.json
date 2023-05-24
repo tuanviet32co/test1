@@ -1,0 +1,26 @@
+[
+    {
+        "code": "Core",
+        "name": "Core"
+    },
+    {
+        "code": "E1",
+        "name": "Exploratory - Arts & Humanities"
+    },
+    {
+        "code": "E2",
+        "name": "Exploratory - Social Sciences"
+    },
+    {
+        "code": "E3",
+        "name": "Exploratory - Sciences & Engineering"
+    },
+    {
+        "code": "E4",
+        "name": "Exploratory - Math & Computing"
+    },
+    {
+        "code": "EL",
+        "name": "Experiential Learning"
+    }
+]

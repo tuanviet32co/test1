@@ -1,0 +1,13 @@
+.loginBackground {
+  background-image: url('/src/assets/sign-in-bg.png');
+  background-size: cover;
+}
+
+.input {
+  border: 1px solid #0069d5;
+  border-radius: 10px;
+}
+
+.ant-form-item-feedback-icon-success {
+    color: #0069d5;
+}

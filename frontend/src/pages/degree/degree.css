@@ -1,0 +1,16 @@
+/* html {
+    background-image: url('../../assets/background_settings.png');
+    background-size: cover;
+} */
+.degree-menu {
+    background-color: #0069d5;
+    height: 100%;
+    width: 100%;
+    color: white;
+    font-weight: 400;
+}
+
+.degree-menu .active {
+    background-color: white;
+    color: white;
+}

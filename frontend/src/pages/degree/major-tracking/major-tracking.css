@@ -1,0 +1,28 @@
+.ant-tabs-nav {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border: 0;
+}
+
+.ant-tabs-top > .ant-tabs-nav {
+  margin: 0;
+}
+
+.ant-tabs-nav-wrap {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.ant-tabs-tab-btn {
+  font-family: 'Be Vietnam Pro', sans-serif;
+  font-size: 1.875rem /* 30px */;
+  line-height: 2.25rem /* 36px */;
+  font-weight: 700;
+  color: #0069d5;
+}
+
+.ant-tabs-content-holder {
+  background-color: white;
+}
